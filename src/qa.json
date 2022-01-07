@@ -1,0 +1,43 @@
+[
+    {
+        "question": "What is AOS?",
+        "answer": "AOS stand for Adjustment of status, it is the process that you can use to apply for lawful permanent resident status (also known as applying for a Green Card) when you are present in the United States.",
+        "open": false
+    },
+    {
+        "question": "What is consular processing?",
+        "answer": "Consular processing is the procedure of applying for an immigrant visa (green card) through a U.S. embassy or consulate in a foreign country.",
+        "open": false
+    },
+ 
+    {
+        "question": "What is PD?",
+        "answer": "PD stands for Priority Date - Most important date of them all. <br/> For <b>family-sponsored applicants</b>, the priority date is the date an immigration petition, filed on behalf of him or her, is received by the United States Citizenship and Immigration Services (USCIS). <br/>For <b>employment-based immigration beneficiaries</b>, the priority date is the date an immigration petition is filed at USCIS, under categories where a labor certification is not required i.e. <b>EB1</b>, or when the United States Department of Labor receives a labor certification application, under categories where a labor certification is required i.e. <b>EB2 & EB3 </b>. The date establishes one's place in the queue for a family-sponsored or employment-based or permanent residency permit (also known as 'green card') application.<br/> if your Priority date is before the cutoff date in the visa bulletin then you can apply for your Adjustment of Status.",
+        "open": false
+    },
+    {
+        "question": "What is RD?",
+        "answer": "RD stands for Reciept Date - Date when USCIS recieved your application.",
+        "open": false
+    },
+    {
+        "question": "What is ND?",
+        "answer": "ND stands for Notice Date - Date when USCIS entered your application into the system and generated your reciept numbers.",
+        "open": false
+    },
+    {
+        "question": "What is I485?",
+        "answer": "Form I-485, Application to Register Permanent Residence or Adjust Status, is used by a person in the United States to apply for lawful permanent resident status.",
+        "open": false
+    },
+    {
+        "question": "What additional applications we file along with I485",
+        "answer": "Along Form I-485, We file I765 which is Employment Authorization Document in short EAD which allow you to work and I131 which is Advanced Payroll (AP) which allow you to enter into US without a visa stamp.",
+        "open": false
+    },
+    {
+        "question": "What is I485J?",
+        "answer": "I-485 Supplement J, Confirmation of Bona Fide Job Offer or Request for Job Portability Under INA Section 204(j)<br/> <b> Dont Need to file</b> if you are filing 485 along with I140  <br/><b> Need to file</b> If your I140 was approved prior to filing 485 then you need to file 485J as a confirmation of Bona Fide Job Offer. <br/> or When you switch jobs after waiting 180 days of filing 485 then you need to file new 485J signed by your new employer",
+        "open": false
+    }
+]
