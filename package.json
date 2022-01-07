@@ -1,5 +1,6 @@
 {
-  "name": "react-accordion",
+  "homepage" : "http://GreenCardWarrior.github.io/GCPedia",
+  "name": "GCPedia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
