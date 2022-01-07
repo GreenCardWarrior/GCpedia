@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GCPedia/static/css/main.0fa6ab41.chunk.css",
+    "main.js": "/GCPedia/static/js/main.20633306.chunk.js",
+    "main.js.map": "/GCPedia/static/js/main.20633306.chunk.js.map",
+    "runtime~main.js": "/GCPedia/static/js/runtime~main.7d2b744e.js",
+    "runtime~main.js.map": "/GCPedia/static/js/runtime~main.7d2b744e.js.map",
+    "static/js/2.4f3d275d.chunk.js": "/GCPedia/static/js/2.4f3d275d.chunk.js",
+    "static/js/2.4f3d275d.chunk.js.map": "/GCPedia/static/js/2.4f3d275d.chunk.js.map",
+    "index.html": "/GCPedia/index.html",
+    "precache-manifest.5454140d9505eff214ebc6d19131c0a6.js": "/GCPedia/precache-manifest.5454140d9505eff214ebc6d19131c0a6.js",
+    "service-worker.js": "/GCPedia/service-worker.js",
+    "static/css/main.0fa6ab41.chunk.css.map": "/GCPedia/static/css/main.0fa6ab41.chunk.css.map",
+    "static/media/index.css": "/GCPedia/static/media/arrow-down-mint.4a5164ae.svg"
+  }
+}
