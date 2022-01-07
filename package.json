@@ -1,6 +1,6 @@
 {
   "homepage": "https://greencardwarrior.github.io/gcpedia/",
-  "name": "GCPedia",
+  "name": "gcpedia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
